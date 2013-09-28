@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Interleaved 2 of 5", "Interleaved 2 of 5\Interleaved 2 of 5.vcxproj", "{03530758-F2E4-4A84-B74E-397E4CCF4E77}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03530758-F2E4-4A84-B74E-397E4CCF4E77}.Debug|Win32.ActiveCfg = Debug|Win32
+		{03530758-F2E4-4A84-B74E-397E4CCF4E77}.Debug|Win32.Build.0 = Debug|Win32
+		{03530758-F2E4-4A84-B74E-397E4CCF4E77}.Release|Win32.ActiveCfg = Release|Win32
+		{03530758-F2E4-4A84-B74E-397E4CCF4E77}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
